@@ -380,6 +380,7 @@ section {
     background: var(--gradient-primary);
     opacity: 0;
     transition: var(--transition-base);
+    pointer-events: none;
 }
 
 .project-card:hover {
